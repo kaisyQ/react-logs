@@ -1,0 +1,11 @@
+.log {
+    max-width: 400px;
+    min-height: 50px;
+}
+.log__title {
+
+}
+
+.log__text {
+    margin-left: 50px;
+}
